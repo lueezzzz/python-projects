@@ -1,1 +1,1 @@
-print("Hub")
+print("Hubs")
